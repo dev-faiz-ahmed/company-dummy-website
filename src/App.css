@@ -1,0 +1,46 @@
+.section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.main-heading{
+  color: red;
+  font-size: 26px;
+
+}
+.underline{
+  height: 2.5px;
+  width: 4rem;
+  background-color: #f76c2f;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.bg-c-light{
+  background-color: #f2f2f2;
+}
+p{
+  font-size: 14px;
+  color: #262626;
+}
+.sliderimg{
+  height: 300px;
+
+}
+.card_img{
+  height: 250px;
+}
+.logo{
+  height: 50px;
+  width: 150px;
+  border-radius: 14px;
+}
+.navfield{
+  color: aliceblue;
+  font-size: 20px;
+}
+.footer a{
+  color: aliceblue;
+  text-decoration: none !important;
+}
+.footer a:hover{
+  color: gray;
+}
